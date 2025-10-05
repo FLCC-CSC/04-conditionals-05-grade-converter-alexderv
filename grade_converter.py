@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Alex Dervenis
+# DATE: 10/5
+# BRIEF DESCRIPTION:  program that converts to letter grades
 
 
 
